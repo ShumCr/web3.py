@@ -2,7 +2,7 @@
 
 GET_GENESIS = "/eth/v1/beacon/genesis"
 
-# states
+# states  
 GET_HASH_ROOT = "/eth/v1/beacon/states/{0}/root"
 GET_FORK_DATA = "/eth/v1/beacon/states/{0}/fork"
 GET_FINALITY_CHECKPOINT = "/eth/v1/beacon/states/{0}/finality_checkpoints"
